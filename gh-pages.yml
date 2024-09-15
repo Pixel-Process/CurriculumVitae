@@ -1,0 +1,4 @@
+deploy: 
+  type: gh-pages 
+  repo: Pixel-pro/CurriculumVitae
+  branch: gh-pages
